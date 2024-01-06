@@ -72,9 +72,9 @@ main, .social{
     text-align: center;
 }
 .flower .flo img{
-    padding: 80px 50px 0px 50px;
-    height: 310px;
-    width: 250px;
+    padding: 55px 35px 0px 35px;
+    height: 270px;
+    width: 220px;
     border-radius: 50% 50% 0% 0%;
     bottom: 0;
     max-width: 70%;
@@ -128,10 +128,10 @@ main, .social{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    gap:15px ;
+    gap:20px ;
 }
 .insta-img img{
-    width: 250px;
+    width: 220px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.39);
 }
